@@ -1,0 +1,7 @@
+{
+  "elasticsearchConfig": {
+    "user": "elastic",
+    "password": "changeme",
+    "serverUrl": "127.0.0.1:9200"
+  }
+}
